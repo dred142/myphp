@@ -6,4 +6,4 @@ echo '<b><center><font color="green">Резуьтат: '.$rez.'</font></center><
 } else {
 echo '<b><center><font color="red">Результат рандома меньше 1000!</font></center></b>';
 }
-?>
+?><!--Commit2-->
