@@ -1,1 +1,1 @@
-<?echo "HELLO!";?>
+<?echo "HELLO!<br />Привет";?>
